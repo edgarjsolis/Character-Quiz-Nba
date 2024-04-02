@@ -1,0 +1,37 @@
+.logo{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;  
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+body{
+background-image: url("https://i.pinimg.com/originals/9e/d1/3d/9ed13d1846a5f262edaea59c29483c02.gif");
+}
+h3{
+color: white;
+}
+.bron{
+display:none;
+}
+.curry{
+display:none;
+}
+.jokic{
+display:none;
+}
+.sga{
+display:none;
+}
+.background{
+display:none;
+}
+.restart{
+display:none;
+}
+p{
+color: white;
+}
